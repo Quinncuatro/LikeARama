@@ -6,6 +6,8 @@ Client Secret adbcd826b1de4150983260c05f3f690d
 
 https://developer.spotify.com/documentation/web-api/quick-start/
 
+https://initialcommit.com/blog/create-a-node-js-desktop-application-with-electron-bootstrap-and-express
+
 JS Library
 [GitHub - thelinmichael/spotify-web-api-node: A Node.js wrapper for Spotify’s Web API.](https://github.com/thelinmichael/spotify-web-api-node)
 
